@@ -2,14 +2,19 @@
 
 Лучшие игры из тех, в которые я играл, по моей субъективной оценке.
 
+<br>
+
 ## 📃 Содержание:
 
 - [Captivity](#-captivity-105b);
 - [Dead-End City Blues OD Edition](#-dead-end-city-blues-od-edition).
 
----
+<br>
+
 
 ## 🎮 Captivity (1.0.5b)
+
+<br>
 
 <p align="center">
     <img src="https://img.itch.zone/aW1nLzQ2MTg2NzEucG5n/original/SulhTs.png" width="500"><br>
@@ -19,9 +24,9 @@
 | :---: | :---: | :---: |
 | [Perveloper](https://itch.io/profile/perveloper) | [EroTorrent](https://erotorrent.ru/action/2437-captivity.html) / [Itch.io](https://perveloper.itch.io/captivity) | [GitHub](https://github.com/Do-Dil/save_captivity.git) / [Mega](https://mega.nz/file/yy4FlIYY#9Y2Gz8xpdIUJIm-0fUhN9vhKNzk1NEPUF7ZKUPv8KYA) |
 
----
-
 <br>
+
+---
 
 **✏️ Рецензия**
 
@@ -39,6 +44,8 @@
 
 ## 🎮 Dead-End City Blues OD Edition
 
+<br>
+
 <p align="center">
     <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2756380/extras/EN.gif?t=1729217537" width="500"><br>
 </p>
@@ -47,9 +54,9 @@
 | :---: | :---: | :---: |
 | [AleCubicSoft](https://store.steampowered.com/developer/MangoParty) | [EroTorrent](https://erotorrent.ru/action/2437-captivity.html) / [Itch.io](https://perveloper.itch.io/captivity) | [GitHub](https://github.com/Do-Dil/save_captivity.git) / [Mega](https://mega.nz/file/yy4FlIYY#9Y2Gz8xpdIUJIm-0fUhN9vhKNzk1NEPUF7ZKUPv8KYA) |
 
----
-
 <br>
+
+---
 
 **✏️ Рецензия**
 
