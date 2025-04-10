@@ -22,7 +22,7 @@
 ## 🎮 Captivity (1.0.5b)
 
 <p align="center">
-    <img src="https://img.itch.zone/aW1nLzQ2MTg2NzEucG5n/original/SulhTs.png" width="500"><br>
+    <img src="https://img.itch.zone/aW1nLzQ2MTg2NzEucG5n/original/SulhTs.png" width="700"><br>
 </p>
 
 | 👤 Разработчик | 🔗 Скачать | 📄 Сохранение |
@@ -44,7 +44,7 @@
 ## 🎮 Dead-End City Blues OD Edition
 
 <p align="center">
-    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2756380/extras/EN.gif?t=1729217537" width="500"><br>
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2756380/extras/EN.gif?t=1729217537" width="700"><br>
 </p>
 
 | 👤 Разработчик | 🔗 Скачать | 📄 Сохранение |
